@@ -1,0 +1,10 @@
+3
+John Smith 
+987654321
+Biology
+Nate King
+901236565
+Computer Science
+Leonie Beno
+123456789
+Chemistry 
